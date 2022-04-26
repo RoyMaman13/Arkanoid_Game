@@ -7,4 +7,5 @@ Mainly used design patterns in the project:
 - Template Method
 - Observable
 - Facade
+
 Note: Make sure that you download the attached jar file and that it's placed in the same directory as src file.
