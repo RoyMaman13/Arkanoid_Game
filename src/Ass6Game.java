@@ -41,7 +41,7 @@ public class Ass6Game {
             levels.add(level4);
         }
 
-        final GUI gui = new GUI("Ark", 800, 600);
+        final GUI gui = new GUI("Roy's Arknoid Game", 800, 600);
         final AnimationRunner animationR = new AnimationRunner(gui);
         final GameFlow gameFlow = new GameFlow(animationR, gui.getKeyboardSensor(), gui);
         gameFlow.runLevels(levels);
