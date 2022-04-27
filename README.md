@@ -12,7 +12,7 @@ Note: Make sure that you download the attached jar file and that it's placed in 
 There are 4 levels, if no arguments are given the game will start from level 1 and by winning continue to level 2 and so on.
 another option is to give the program arguments that will represent the game levels so the levels will appear in that order (for example - "4 2 1 1 3 2").
 
-Here are some photos for the game demonstration.
+Here are some photos for demonstration.
 
 <img width="598" alt="Screenshot 2022-04-27 153138" src="https://user-images.githubusercontent.com/92623695/165559069-a2e687ec-553d-4248-b1de-a9e4c8cd7d12.png">
 <img width="599" alt="Screenshot 2022-04-27 153328" src="https://user-images.githubusercontent.com/92623695/165559092-2c86a916-38e7-4a94-bed4-e81ed513bb63.png">
