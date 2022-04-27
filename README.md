@@ -9,7 +9,9 @@ Mainly used design patterns in the project:
 - Facade
 
 Note: Make sure that you download the attached jar file and that it's placed in the same directory as src file.
+
 There are 4 levels, if no arguments are given the game will start from level 1 and by winning continue to level 2 and so on.
+
 another option is to give the program arguments that will represent the game levels so the levels will appear in that order (for example - "4 2 1 1 3 2").
 
 Here are some photos for demonstration.
